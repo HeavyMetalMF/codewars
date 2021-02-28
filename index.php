@@ -1,0 +1,1 @@
+<script src="wars.js"></script>
